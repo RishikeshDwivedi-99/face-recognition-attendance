@@ -17,12 +17,5 @@ This project is a **Face Recognition Attendance System** that uses **OpenCV** an
 - **NumPy** (for numerical operations)
 - **Pandas** (for handling attendance data)
 
-## 📂 Folder Structure
-```plaintext
-face-recognition-attendance/
-│-- images/              # Folder containing known face images
-│-- attendance.csv       # CSV file to store attendance records
-│-- main.py              # Main script for face recognition
-│-- requirements.txt     # Dependencies
-│-- README.md            # Project documentation
+
 
